@@ -1,7 +1,5 @@
-package com.cody.perry.lru_cache;
+package com.codyperry.lru_cache.model;
 
-import com.codyperry.lru_cache.model.DoubleLinkedList;
-import com.codyperry.lru_cache.model.Node;
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Order;
 import org.junit.jupiter.api.Test;
