@@ -3,7 +3,7 @@ package com.codyperry.lru_cache.model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class DoubleLinkedList<T, U> {
+public final class DoubleLinkedList<T, U> {
     private Node<T, U> sentinelHead;
     private Node<T, U> sentinelTail;
 
